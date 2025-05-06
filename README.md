@@ -58,6 +58,6 @@
 
 
 -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+Credits: [Carlos Mancía](https://github.com/CharlyJSX)
 
 Last Edited on: 06/05/2025
