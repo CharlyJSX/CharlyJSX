@@ -15,7 +15,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="[https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://imgs.search.brave.com/UwdnPDr0m3265u8RiSouyX6IuCgPBXZ8c3O6nadDVgI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90by1ncmF0aXMv/ZXhwZXJpZW5jaWEt/cHJvZ3JhbWFjaW9u/LXBlcnNvbmEtcXVl/LXRyYWJhamEtY29k/aWdvcy1jb21wdXRh/ZG9yYV8yMy0yMTUw/MDEwMTI1LmpwZz9z/ZW10PWFpc19oeWJy/aWQmdz03NDA)" />
 
 - 🔭 I’m currently working on Javascript, NODE and SQL
   
