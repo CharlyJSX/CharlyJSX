@@ -2,7 +2,7 @@
     <img width="200" src="https://avatars.githubusercontent.com/u/77645310?v=4">
 </p>
 
-# ¡Hola! Soy CharlyJSX 👋
+# ¡Hola! Soy Carlos David Violante Mancía 👋
 **Software Developer** de El Salvador apasionado por construir soluciones modernas con **JavaScript**, **Node.js** y **PostgreSQL**.
 
 [🌐 Sitio Web](https://charlyjsx.github.io/carlosmancia/) • [🐦 Twitter](https://twitter.com/CharlyCodeJSX) • [💼 LinkedIn](https://www.linkedin.com/in/carlos-david-violante-manc%C3%ADa-495932227/) • [📲 WhatsApp](https://wa.me/50370487059)
